@@ -6,6 +6,5 @@
     <title>Document</title>
 </head>
 <body>
-    アイウエオ書きうけこさしすせそ
 </body>
 </html>
